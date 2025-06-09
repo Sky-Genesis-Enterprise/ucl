@@ -1,0 +1,63 @@
+Universal Collaborative License (UCL) v1.0
+
+Copyright (c) [YEAR] [AUTHOR / ORGANIZATION]
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this work (the "Work"), to use, modify, merge, publish, distribute, and sublicense the Work, subject to the following conditions:
+
+1. DEFINITIONS
+
+   a. "Work" refers to any original work of authorship, whether software, documentation, or digital media, covered under this License.
+
+   b. "Derivative Work" means any work that is based upon the Work or modifications thereof.
+
+   c. "Contributor" means any person or entity that creates or contributes to the Work.
+
+   d. "Source Form" refers to the preferred form of the Work for making modifications.
+
+2. REQUIREMENTS
+
+   a. **Open Source Distribution**: Any redistribution of the Work, with or without modifications, must include the complete Source Form under this same license.
+
+   b. **Attribution**: You must preserve all copyright, license, and authorship notices in the Source Form.
+
+   c. **Collaboration Duty**: If you publicly deploy or distribute Derivative Works, you must make the Source Form of the Derivative Work available under this License.
+
+   d. **Integrity of the Work**: Modifications must not misrepresent the origin of the Work. Clearly document all substantive changes.
+
+   e. **Federation & API Use**: If the Work is used as part of a federated system or exposed via public APIs, those systems must comply with the same collaboration and sharing principles.
+
+3. COMMERCIAL USE
+
+   a. This License permits use of the Work in commercial settings, including resale, SaaS offerings, and enterprise deployment.
+
+   b. Commercial Derivative Works must still comply with the open collaboration duties unless licensed separately under dual licensing.
+
+4. PATENTS
+
+   a. Each Contributor grants you a non-exclusive, worldwide, royalty-free patent license under their rights, to use, make, sell, and distribute the Work.
+
+   b. If you initiate patent litigation against any entity alleging that the Work infringes a patent, your license under this License is terminated.
+
+5. TRADEMARKS
+
+   a. This License does not grant permission to use the trade names, trademarks, service marks, or product names of the Licensor, except as required for describing the origin of the Work.
+
+6. WARRANTY DISCLAIMER
+
+   THE WORK IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT.
+
+7. LIMITATION OF LIABILITY
+
+   IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM OR OUT OF OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
+
+8. TERMINATION
+
+   a. Violation of this License terminates your rights under it. Rights may be reinstated upon curing the violation and notifying the original Licensor(s).
+
+   b. You may choose to stop distributing or using the Work at any time, but the terms of this License will continue to apply to your prior use.
+
+---
+
+This License aims to promote open collaboration, transparency, and shared innovation across both public and commercial domains.
+
+For more information, visit: https://skygenesisenterprise.com/licenses/ucl
